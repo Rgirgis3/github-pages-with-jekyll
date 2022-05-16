@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My Name is Rachel Girgis"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is a website about me.
